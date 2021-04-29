@@ -1,23 +1,27 @@
-![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/brain.png "brain-logo")
+<div align="center">
+    ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/brain.png "brain-logo")
+    # Face Recognition Brain / App de Reconocimiento Facial
+</div>
 
-# Face Recognition Brain / App de Reconocimiento Facial
 ---
-
 Complete Fullstack React.js/Node.js App to Detect Faces on Image using [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) with a Ranking System.
 
 Aplicación Web Realizada con React.js/Node.js para detectar rostros en imagenes utilizando [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) y un Sistema de Ranking.
 
+<div align="center">
+    ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen1.png "login-page")
 
+    ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen2.png "main-page")
+</div>
 
 ---
-
 ### Tecnologies / Tecnologías
 *React.js
 *Node.js
 *Javascript
 *HTML
 *CSS
-
+---
 ### Dependencies / Dependencias
 *[Clarifai Face Recognition API](https://www.clarifai.com/use-cases/facial-recognition)
 *[React Particles js](https://www.npmjs.com/package/react-particles-js)
