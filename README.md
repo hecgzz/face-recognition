@@ -7,14 +7,14 @@ Aplicación Web Realizada con React.js/Node.js para detectar rostros en imagenes
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen1.png "login-page")
 
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen2.png "main-page")
----
+
 ### Tecnologies / Tecnologías
 + React.js
 + Node.js
 + Javascript
 + HTML
 + CSS
----
+
 ### Dependencies / Dependencias
 + [Clarifai Face Recognition API](https://www.clarifai.com/use-cases/facial-recognition)
 + [React Particles js](https://www.npmjs.com/package/react-particles-js)
