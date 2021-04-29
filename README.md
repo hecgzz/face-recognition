@@ -1,11 +1,9 @@
 # Face Recognition Brain / App de Reconocimiento Facial
 
-### Live Demo
-You can view the live version [here](https://freco.herokuapp.com/):
-https://freco.herokuapp.com/
+### Live Demo / Demostración App
+You can view the live version [here](https://freco.herokuapp.com/)
 
-Puedes ver la Demostración de la Aplicación [aquí](https://freco.herokuapp.com/):
-https://freco.herokuapp.com/
+Puedes ver la Demostración de la Aplicación [aquí](https://freco.herokuapp.com/)
 
 ### Description / Descripción
 Complete Full Stack React.js/Node.js App to Detect Faces on Image using [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) with a Ranking System.
