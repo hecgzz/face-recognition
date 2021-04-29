@@ -1,14 +1,22 @@
 # Face Recognition Brain / App de Reconocimiento Facial
 
-Complete Fullstack React.js/Node.js App to Detect Faces on Image using [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) with a Ranking System.
+### Live Demo
+You can view the live version [here](https://freco.herokuapp.com/):
+https://freco.herokuapp.com/
 
-Aplicación Web Realizada con React.js/Node.js para detectar rostros en imagenes utilizando [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) y un Sistema de Ranking.
+Puedes ver la Demostración de la Aplicación [aquí](https://freco.herokuapp.com/):
+https://freco.herokuapp.com/
+
+### Description / Descripción
+Complete Full Stack React.js/Node.js App to Detect Faces on Image using [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) with a Ranking System.
+
+Aplicación Web Full Stack Realizada con React.js/Node.js para detectar rostros en imágenes utilizando [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) y un Sistema de Ranking.
 
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen1.png "login-page")
 
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen2.png "main-page")
 
-### Tecnologies / Tecnologías
+### Technologies / Tecnologías
 + React.js
 + Node.js
 + Javascript
