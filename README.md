@@ -10,13 +10,15 @@ Complete Full Stack React.js/Node.js App to Detect Faces on Image using [Clarifa
 
 Aplicación Web Full Stack Realizada con React.js/Node.js para detectar rostros en imágenes utilizando [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) y un Sistema de Ranking.
 
+You can check the API [here](https://github.com/hecgzz/Face-Recognition-API)
+Puedes ver la API [aquí](https://github.com/hecgzz/Face-Recognition-API)
+
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen1.png "login-page")
 
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen2.png "main-page")
 
 ### Technologies / Tecnologías
 + React.js
-+ Node.js
 + Javascript
 + HTML
 + CSS
