@@ -19,6 +19,8 @@ Puedes ver la API [aquí](https://github.com/hecgzz/Face-Recognition-API)
 
 ![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen2.png "main-page")
 
+![alt text](https://github.com/hecgzz/face-recognition/blob/main/public/Screen3.png "face-detection")
+
 ### Technologies / Tecnologías
 + React.js
 + Javascript
