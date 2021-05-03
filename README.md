@@ -9,6 +9,7 @@ Puedes ver la Demostración de la Aplicación [aquí](https://freco.herokuapp.co
 Complete Full Stack React.js/Node.js App to Detect Faces on Image using [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) with a Count System.
 
 Aplicación Web Full Stack Realizada con React.js/Node.js para detectar rostros en imágenes utilizando [Clarifai API](https://www.clarifai.com/use-cases/facial-recognition) y un Sistema de Conteo.
+
 ---
 You can check the API [here](https://github.com/hecgzz/Face-Recognition-API)
 
